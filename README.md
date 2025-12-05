@@ -30,8 +30,7 @@ No backend or server communication is included.
 
 ## 🎥 Demo
 
-![App Demo](./movie_ticket_app.gif)
-
+<img src="./avatar_ticket_app.gif" width="350" />
 
 ##  How to Run
 
