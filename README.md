@@ -26,7 +26,12 @@ This project focuses on screen design, interactions, and user flow — without b
 This app was built as part of a practice project focused on UI/UX, building user flows, and creating interactive screens in Android Studio.  
 No backend or server communication is included.
 
----
+## Demo
+
+## 🎥 Demo
+
+![App Demo](Avatar Ticket App.gif)
+
 
 ##  How to Run
 
@@ -34,7 +39,7 @@ No backend or server communication is included.
 2. Open the project in Android Studio  
 3. Run on an emulator or physical Android device
 
----
+
 
 
 ##  Author
