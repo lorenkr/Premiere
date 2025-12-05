@@ -28,9 +28,7 @@ No backend or server communication is included.
 
 ## Demo
 
-## 🎥 Demo
-
-<img src="./avatar_ticket_app.gif" width="350" />
+<img src="./movie_ticket_app.gif" width="350" />
 
 ##  How to Run
 
