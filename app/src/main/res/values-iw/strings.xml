@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Premiere</string>
+    <string name="movie_name">אוואטר</string>
+    <string name="summary">חייל מארינס משותק שנשלח לירח פנדורה  במשימה ייחודית, נקרע בין מילוי פקודותיו לבין הגנה על העולם שהוא החל לראות בו בית.</string>
+    <string name="order_tickets">הזמנת כרטיסים</string>
+    <string name="tickets_amount">בחירת כמות כרטיסים</string>
+    <string name="total_price_format">המחיר הכולל: %1$d $</string>
+    <string name="ticket_type">בחר סוג כרטיס</string>
+    <string name="adult">מבוגר (15$) </string>
+    <string name="child">ילד (10$) </string>
+    <string name="choose_date">תאריך הצפייה</string>
+    <string name="date_label">התאריך:</string>
+    <string name="choose_date_button">בחר את התאריך</string>
+    <string name="no_date_selected">לא נבחר תאריך</string>
+    <string name="checkbox_3d"> צפייה בתלת מימד (+ 3$)</string>
+    <string name="cinema_label"> בחר בית קולנוע:</string>
+    <string name="cinema_hint">הקלד את מיקום הקולנוע  </string>
+    <string name="get_tickets_button">הזמן כרטיסים</string>
+    <string name="dialog_title">סיכום הזמנה</string>
+    <string name="button_confirm">אישור הזמנה</string>
+    <string name="button_cancel">ביטול הזמנה</string>
+    <string name="order_success">ההזמנה בוצעה בהצלחה! תהנה מהסרט</string>
+    <string name="order_error">בבקשה תבחר כרטיס 1 לפחות</string>
+    <string name="order_details_template">
+        סרט: %1$s \n
+        תאריך: %2$s \n
+        קולנוע: %3$s \n
+        כרטיסים: %4$d (%5$s) \n
+        חווית צפייה: %6$s \n
+        מחיר כולל: %7$d $ \n
+</string>
+</resources>
